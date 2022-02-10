@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(245, 233, 233);
+}
+
+input{
+    width: 98%;
+    height: 40px;
+}
+
+.outer-div {
+    display: flex;
+    justify-content: center;
+    padding-top: 20vh;
+}
+
+.inner-div {
+    width: 100%;
+    max-width: 350px;
+    max-height: 100vh;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+}
+
+button{
+    padding: 20px;
+    width: 84px;
+}
+ #equal {
+     width: 172px;
+ }
